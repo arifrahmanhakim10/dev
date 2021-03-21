@@ -1,20 +1,17 @@
 const profile = {
-  name: "Ervandra Halim",
-  title: "Senior Software Engineer",
-  email: "ervandra.halim@gmail.com",
-  phone: "+6287708770800",
+  name: "Arif Rahman Hakim",
+  title: "Web Developers",
+  email: "ariprahmanhakim1010@gmail.com",
+  phone: "+6285389371617",
   photo: "https://www.ervandra.com/wp-content/uploads/2020/12/ervan-round.png",
-  about: "I'm Ervandra Halim, a Software Engineer. Through my entire career, i realize that i love the most to conceptualize a website or web applications, write technical specifications and develop it with my team into a high-quality applications that are feasible, scalable, tesable and measurable that will also meet with the business requirements.",
+  about: "Nama saya Arif Rahman Hakim. Saya adalah freelancer Webs developer, saya cukup menguasai HTML, CSS, PHP, Bootstrap dan Javascript. .",
   professionalSkills: [
     "Front-End Development",
-    "HTML & CSS (SASS)",
-    "React.js - Next.js",
-    "Styled Components",
-    "Figma / Sketch",
-    "GIT / SVN",
-    "CI / CD (Deployment)",
-    "Responsive Web Design",
-    "Business-To-Technical Specifications"
+    "HTML & CSS",
+    "Javascirpt",
+    "Front-End Development",
+    "Boostrap",
+    "My sql"
   ],
   personalSkills: [
     "Critical Thinking",
@@ -25,12 +22,11 @@ const profile = {
     "Problem Solver",
     "Team Building"
   ],
-  website: "www.ervandra.dev",
+  website: "www.arifrahmanhakim.my.id",
   social: [
-    "https://linkedin.com/in/ervandra",
-    "https://facebook.com/vahnisme",
-    "https://github.com/ervandra",
-    "https://youtube.com/c/ervandra"
+    
+    "https://facebook.com/arifarrahman10",
+    "https://github.com/arifrahmanhakim10"
   ],
   experiences: [
     {
