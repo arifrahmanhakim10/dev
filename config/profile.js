@@ -3,14 +3,15 @@ const profile = {
   title: "Web Developers",
   email: "ariprahmanhakim1010@gmail.com",
   phone: "+6285389371617",
-  photo: "https://www.ervandra.com/wp-content/uploads/2020/12/ervan-round.png",
+  photo: "https://scontent.fbdj4-1.fna.fbcdn.net/v/t1.0-9/84072569_1022865481433582_3970646932430258176_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=174925&_nc_eui2=AeFVEH2KlkmraJ428lIrXNQ7h8ajx5ypy-SHxqPHnKnL5PcYgEX8iMEziXiGaIpJZQboaf-L8Fdc8cggFsc_Jpkh&_nc_ohc=WJfrVaZ1_0UAX_LNiv4&_nc_ht=scontent.fbdj4-1.fna&oh=3cb90975b8bdb1b7b8bc03dfe7407afc&oe=607B3717",
   about: "Nama saya Arif Rahman Hakim. Saya adalah freelancer Webs developer, saya cukup menguasai HTML, CSS, PHP, Bootstrap dan Javascript. .",
   professionalSkills: [
     "Front-End Development",
     "HTML & CSS",
     "Javascirpt",
-    "Front-End Development",
+    "Back-End Development",
     "Boostrap",
+    "Wordpress",
     "My sql"
   ],
   personalSkills: [
@@ -30,9 +31,9 @@ const profile = {
   ],
   experiences: [
     {
-      title: "Lead Frontend Developer",
-      company: "CIAYO",
-      year: "Dec 2016 - Jul 2020",
+      title: "ADMINISTRATION",
+      company: "PT JASA RAHARJA PERSERO CABANG KALIMANYAN SELATAN",
+      year: "OKT 2018 - OKT 2019",
       summary: [
         "Write technical specifications, help my team to meet business requirements",
         "Create blueprint project, and scaling the apps",
@@ -44,9 +45,9 @@ const profile = {
       ]
     },
     {
-      title: "Senior Frontend Developer",
-      company: "PT. Dragon Capital Centre",
-      year: "Jun 2015 - Dec 2016",
+      title: "CONTENT CREATOR",
+      company: "PT. BERITAHU",
+      year: "Jun 2019 - Dec 2020",
       summary: [
         "Joined as Co-Founder and contribute useful insights regarding web technologies to PT. Dragon Capital Centre",
         "Lead development of CIAYO (Virtual Social Media) using AngularJS",
@@ -54,23 +55,13 @@ const profile = {
         "Successfully improving and recoding the web apps using Nuxt.js (and later Next.js - React.js"
       ]
     },
-    {
-      title: "Senior Web Developer",
-      company: "Cakra Studio",
-      year: "Jul 2012 - Jun 2015",
-      summary: [
-        "Leading Web Development Team",
-        "Create standardize Web Services for the company",
-        "Create boilerplate Wordpress Template to be used for our client's projects",
-        "Hands-on create WordPress website for clients"
-      ]
-    }
+    
   ],
   education: [
     {
-      title: "Bachelor of Computer Science (Interactive Multimedia)",
-      school: "Bina Nusantara University",
-      year: "2008 - 2012"
+      title: "DIII TEKNIK INFORMATIKA",
+      school: "POLITEKNIK NEGERI TANAH LAUT",
+      year: "2015 - 2018"
     }
   ],
   color: 'ae2b26',
